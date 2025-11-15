@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**marialuciananormal-beep/marialuciananormal-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Costumer service
 - 🌱 I’m currently learning a little bit of german
 - 🤔 I’m looking for help to David who is teaching us about github
